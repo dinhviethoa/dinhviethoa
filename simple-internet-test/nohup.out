@@ -1,0 +1,1412 @@
+net.ipv4.ping_group_range = 0 2147483647
+Cron job start!
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.251.220.110):
+PING tiktok.com (108.157.30.48):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+upload:  919.934616
+download:  917.040272
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.250.204.78):
+PING tiktok.com (108.157.30.48):
+upload:  912.367696
+download:  925.828400
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (142.251.220.110):
+PING tiktok.com (108.157.30.115):
+PING facebook.com (157.240.199.35):
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (142.251.220.110):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.211.35):
+PING tiktok.com (54.192.18.95):
+upload:  920.363520
+download:  927.379232
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (142.250.204.110):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.115):
+upload:  917.444880
+download:  930.685568
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.199.35):
+PING youtube.com (172.217.24.238):
+PING tiktok.com (108.157.30.107):
+upload:  918.125360
+download:  923.228720
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (172.217.24.110):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.48):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.251.220.78):
+PING tiktok.com (108.157.30.48):
+upload:  916.090176
+download:  930.459912
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (172.217.24.110):
+PING tiktok.com (108.157.30.107):
+upload:  917.451880
+download:  930.531376
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (142.250.66.78):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.48):
+upload:  917.342320
+download:  919.071160
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.211.35):
+PING youtube.com (172.217.24.110):
+PING tiktok.com (108.157.30.107):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (172.217.31.14):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.48):
+upload:  925.188632
+download:  931.275064
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.211.35):
+PING youtube.com (142.250.199.78):
+PING tiktok.com (108.157.30.107):
+upload:  922.773368
+download:  927.468680
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING tiktok.com (108.157.30.107):
+PING facebook.com (157.240.211.35):
+PING youtube.com (172.217.24.238):
+upload:  927.046432
+download:  922.676144
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.211.35):
+PING youtube.com (142.250.199.78):
+PING tiktok.com (108.157.30.115):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (142.250.66.78):
+PING facebook.com (157.240.199.35):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING tiktok.com (108.157.30.61):
+upload:  920.677504
+download:  926.595208
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.199.35):
+PING youtube.com (172.217.27.46):
+PING tiktok.com (108.157.30.61):
+upload:  924.587568
+download:  928.425808
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (172.217.27.46):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.211.35):
+PING tiktok.com (108.157.30.107):
+upload:  925.135832
+download:  926.942304
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (142.251.220.110):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.48):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.211.35):
+PING youtube.com (142.251.220.78):
+PING tiktok.com (108.157.30.107):
+upload:  905.277144
+download:  928.165328
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (142.250.204.46):
+PING tiktok.com (108.157.30.61):
+PING facebook.com (157.240.199.35):
+upload:  921.685400
+download:  927.915088
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (142.251.220.78):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.61):
+upload:  906.831448
+download:  928.263776
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.211.35):
+PING youtube.com (172.217.27.46):
+PING tiktok.com (108.157.30.48):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.251.220.78):
+PING tiktok.com (108.157.30.48):
+upload:  926.676200
+download:  930.894096
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (172.217.24.110):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.61):
+upload:  918.597808
+download:  932.097240
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.250.204.78):
+PING tiktok.com (108.157.30.61):
+upload:  918.184168
+download:  922.745696
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.199.35):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (142.250.204.142):
+PING tiktok.com (108.157.30.61):
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.199.35):
+PING youtube.com (216.58.203.78):
+PING tiktok.com (108.157.30.115):
+upload:  918.571744
+download:  928.200080
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (142.251.220.46):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.61):
+upload:  904.009200
+download:  923.309912
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (142.251.220.78):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.48):
+upload:  926.358056
+download:  928.067448
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.211.35):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (142.250.204.110):
+PING tiktok.com (108.157.30.115):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (142.250.204.110):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.107):
+upload:  926.667144
+download:  925.416552
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.199.35):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (142.251.220.110):
+PING tiktok.com (108.157.30.48):
+upload:  922.718864
+download:  926.772736
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.199.35):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (142.251.220.46):
+PING tiktok.com (108.157.30.61):
+upload:  917.465600
+download:  926.479776
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (216.58.203.78):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.61):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.211.35):
+PING youtube.com (142.251.220.110):
+PING tiktok.com (108.157.30.61):
+upload:  925.106128
+download:  928.252296
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (172.217.24.110):
+PING tiktok.com (108.157.30.61):
+upload:  911.282984
+download:  925.452624
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.250.199.78):
+PING tiktok.com (108.157.30.61):
+upload:  921.112784
+download:  925.585952
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.211.35):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (172.217.24.110):
+PING tiktok.com (108.157.30.107):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.251.220.110):
+PING tiktok.com (108.157.30.61):
+upload:  917.726264
+download:  927.631384
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (142.251.220.78):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.61):
+upload:  924.077224
+download:  925.536696
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (172.217.24.238):
+PING facebook.com (157.240.199.35):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING tiktok.com (108.157.30.107):
+upload:  926.992176
+download:  926.783664
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (142.250.204.46):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.61):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.251.220.110):
+PING tiktok.com (108.157.30.61):
+upload:  925.860136
+download:  923.573552
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.250.66.46):
+PING tiktok.com (108.157.30.115):
+upload:  920.987864
+download:  928.940888
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.251.220.46):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING tiktok.com (108.157.30.107):
+upload:  922.216976
+download:  930.799904
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.250.66.78):
+PING tiktok.com (108.157.30.115):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING tiktok.com (108.157.30.115):
+PING facebook.com (157.240.211.35):
+PING youtube.com (142.251.220.78):
+upload:  918.022704
+download:  929.953104
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (142.251.220.110):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.48):
+upload:  910.647440
+download:  927.151848
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.250.66.142):
+PING tiktok.com (108.157.30.107):
+upload:  916.176256
+download:  929.475888
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.107):
+PING youtube.com (142.250.204.142):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (216.58.203.78):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.107):
+upload:  923.516744
+download:  928.123072
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.250.204.78):
+PING tiktok.com (108.157.30.61):
+upload:  906.432880
+download:  925.662832
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.211.35):
+PING youtube.com (142.250.66.78):
+PING tiktok.com (108.157.30.61):
+upload:  915.723272
+download:  926.119816
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (54.192.18.96):
+PING youtube.com (142.250.204.142):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING tiktok.com (108.157.30.61):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (142.251.220.110):
+PING facebook.com (157.240.199.35):
+upload:  922.356656
+download:  925.731624
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING facebook.com (157.240.199.35):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (172.217.24.110):
+PING tiktok.com (108.157.30.48):
+upload:  918.435056
+download:  928.527680
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (142.250.66.78):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.115):
+upload:  913.717536
+download:  928.902048
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING youtube.com (172.217.24.238):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.211.35):
+PING tiktok.com (108.157.30.107):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.211.35):
+PING tiktok.com (108.157.30.61):
+PING youtube.com (172.217.24.110):
+upload:  921.329640
+download:  929.410944
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (172.217.31.14):
+PING tiktok.com (108.157.30.107):
+upload:  920.803760
+download:  928.740976
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (172.217.24.110):
+PING tiktok.com (108.157.30.115):
+upload:  910.712000
+download:  930.042368
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.199.35):
+PING youtube.com (216.58.203.78):
+PING tiktok.com (108.157.30.115):
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (142.250.66.78):
+PING facebook.com (157.240.211.35):
+PING tiktok.com (108.157.30.48):
+upload:  897.271216
+download:  923.455000
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (142.250.66.78):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.48):
+upload:  924.703792
+download:  930.184296
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.211.35):
+PING youtube.com (216.58.203.78):
+PING tiktok.com (108.157.30.61):
+upload:  905.461936
+download:  929.646200
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (142.251.220.110):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.48):
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING facebook.com (157.240.199.35):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (172.217.24.110):
+PING tiktok.com (108.157.30.48):
+upload:  919.108912
+download:  927.833120
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (142.250.204.46):
+PING facebook.com (157.240.199.35):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING tiktok.com (108.157.30.107):
+upload:  899.748808
+download:  930.451640
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING tiktok.com (108.157.30.61):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.250.204.142):
+upload:  921.030120
+download:  922.843960
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (142.251.220.78):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.48):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.211.35):
+PING youtube.com (142.250.204.46):
+PING tiktok.com (108.157.30.115):
+upload:  908.214360
+download:  927.711816
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.107):
+PING youtube.com (142.250.66.46):
+upload:  918.032512
+download:  931.803264
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (172.217.24.110):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.61):
+upload:  914.400216
+download:  926.770760
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.250.204.46):
+PING tiktok.com (108.157.30.61):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.115):
+PING youtube.com (142.251.220.78):
+upload:  908.227352
+download:  927.339696
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.250.204.46):
+PING tiktok.com (108.157.30.48):
+upload:  923.327896
+download:  929.120128
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (172.217.24.110):
+PING tiktok.com (108.157.30.107):
+upload:  923.139272
+download:  931.611032
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (142.250.66.78):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.115):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.251.220.46):
+PING tiktok.com (108.157.30.107):
+upload:  922.923136
+download:  931.166536
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (142.251.220.78):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.48):
+upload:  910.119208
+download:  927.319304
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.199.35):
+PING youtube.com (172.217.24.110):
+PING tiktok.com (108.157.30.107):
+upload:  926.430640
+download:  927.087200
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (142.251.220.46):
+PING tiktok.com (108.157.30.61):
+PING facebook.com (157.240.211.35):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (142.251.220.110):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.61):
+upload:  921.451928
+download:  929.533024
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.211.35):
+PING youtube.com (142.250.204.78):
+PING tiktok.com (108.157.30.107):
+upload:  920.751304
+download:  929.739760
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING tiktok.com (108.157.30.115):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.250.199.78):
+upload:  912.258528
+download:  924.646344
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.250.66.46):
+PING tiktok.com (108.157.30.48):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING tiktok.com (108.157.30.107):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (172.217.24.110):
+upload:  907.694200
+download:  918.417208
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.250.204.78):
+PING tiktok.com (108.157.30.61):
+upload:  922.577240
+download:  922.777416
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING tiktok.com (108.157.30.107):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.250.204.78):
+upload:  915.577512
+download:  929.061112
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.251.220.78):
+PING tiktok.com (108.157.30.107):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING tiktok.com (108.157.30.115):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (216.58.200.238):
+PING facebook.com (157.240.199.35):
+PING google-public-dns-b.google.com (8.8.4.4):
+upload:  914.579688
+download:  926.252712
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (142.250.66.78):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.115):
+upload:  910.422512
+download:  929.185912
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (172.217.31.14):
+PING tiktok.com (108.157.30.48):
+upload:  914.054736
+download:  928.764792
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.199.35):
+PING youtube.com (172.217.24.110):
+PING tiktok.com (108.157.30.61):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING youtube.com (142.250.204.78):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING tiktok.com (108.157.30.48):
+upload:  919.904352
+download:  928.373680
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (172.217.31.14):
+PING facebook.com (157.240.211.35):
+PING tiktok.com (108.157.30.115):
+upload:  920.973568
+download:  926.871664
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (142.250.204.78):
+PING tiktok.com (108.157.30.48):
+PING facebook.com (157.240.199.35):
+upload:  907.509776
+download:  929.706648
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.61):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (142.250.204.78):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (142.251.220.110):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.115):
+PING google-public-dns-a.google.com (8.8.8.8):
+upload:  920.307240
+download:  925.039464
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING tiktok.com (108.157.30.48):
+PING youtube.com (216.58.203.78):
+upload:  915.543448
+download:  930.366392
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (142.250.204.110):
+PING facebook.com (157.240.211.35):
+PING tiktok.com (108.157.30.115):
+upload:  906.890432
+download:  887.057480
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (142.251.220.110):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.107):
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.250.66.78):
+PING tiktok.com (108.157.30.107):
+upload:  908.234768
+download:  923.716872
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (142.250.204.142):
+PING tiktok.com (108.157.30.107):
+PING facebook.com (157.240.199.35):
+upload:  915.255360
+download:  925.620936
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (172.217.24.110):
+PING tiktok.com (108.157.30.48):
+upload:  925.406632
+download:  922.729800
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.199.35):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (216.58.200.238):
+PING tiktok.com (108.157.30.61):
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING facebook.com (157.240.211.35):
+PING youtube.com (142.250.66.78):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING tiktok.com (108.157.30.107):
+upload:  906.720688
+download:  927.946768
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.250.204.46):
+PING tiktok.com (108.157.30.115):
+upload:  908.136600
+download:  927.499200
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING youtube.com (142.250.204.110):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING tiktok.com (108.157.30.61):
+PING facebook.com (157.240.211.35):
+upload:  899.522464
+download:  928.644024
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (142.250.66.78):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.61):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (172.217.24.110):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.48):
+upload:  917.420512
+download:  928.287624
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING facebook.com (157.240.211.35):
+PING youtube.com (172.217.24.110):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING tiktok.com (108.157.30.48):
+upload:  917.420728
+download:  924.008616
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.48):
+PING youtube.com (172.217.24.110):
+upload:  914.572984
+download:  927.762208
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.199.35):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (172.217.24.110):
+PING tiktok.com (108.157.30.107):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING tiktok.com (108.157.30.48):
+PING facebook.com (157.240.199.35):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (142.250.199.78):
+upload:  921.649744
+download:  929.238496
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.250.204.46):
+PING tiktok.com (108.157.30.48):
+upload:  916.525288
+download:  928.804272
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (142.250.199.78):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.115):
+upload:  917.450736
+download:  925.170920
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (142.250.66.78):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.61):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING tiktok.com (108.157.30.115):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.251.220.78):
+PING google-public-dns-a.google.com (8.8.8.8):
+upload:  911.391720
+download:  926.727352
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.250.204.110):
+PING tiktok.com (108.157.30.107):
+upload:  922.908288
+download:  927.999128
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.211.35):
+PING youtube.com (216.58.203.78):
+PING tiktok.com (108.157.30.115):
+upload:  918.967784
+download:  925.023704
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.251.220.46):
+PING tiktok.com (108.157.30.61):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.199.35):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (172.217.27.46):
+PING tiktok.com (108.157.30.61):
+upload:  912.568592
+download:  928.000720
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.199.35):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (172.217.24.110):
+PING tiktok.com (108.157.30.107):
+upload:  916.102240
+download:  925.979392
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING facebook.com (157.240.199.35):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (142.251.220.110):
+PING tiktok.com (108.157.30.107):
+upload:  898.914904
+download:  927.740624
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.251.220.78):
+PING tiktok.com (108.157.30.107):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING tiktok.com (108.157.30.48):
+PING youtube.com (172.217.24.110):
+PING facebook.com (157.240.211.35):
+upload:  918.770816
+download:  925.356176
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.211.35):
+PING youtube.com (172.217.24.110):
+PING tiktok.com (108.157.30.61):
+upload:  920.758000
+download:  927.439704
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.251.220.78):
+PING tiktok.com (108.157.30.48):
+upload:  908.993912
+download:  928.085920
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (142.250.66.142):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.211.35):
+PING tiktok.com (108.157.30.115):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (142.250.66.142):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.107):
+upload:  920.530440
+download:  926.538552
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING facebook.com (157.240.211.35):
+PING youtube.com (142.250.204.142):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING tiktok.com (108.157.30.61):
+upload:  900.005184
+download:  912.315576
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (142.250.66.78):
+PING tiktok.com (108.157.30.115):
+upload:  921.163016
+download:  930.639064
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (216.58.203.78):
+PING tiktok.com (108.157.30.107):
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.211.35):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (142.250.66.78):
+PING tiktok.com (108.157.30.48):
+upload:  919.306240
+download:  923.474280
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (142.250.66.78):
+PING tiktok.com (108.157.30.48):
+upload:  920.822504
+download:  929.994568
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.107):
+PING youtube.com (172.217.24.110):
+upload:  914.846872
+download:  928.927104
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.199.35):
+PING youtube.com (172.217.24.110):
+PING tiktok.com (108.157.30.61):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.199.35):
+PING youtube.com (172.217.27.46):
+PING tiktok.com (108.157.30.107):
+upload:  921.412096
+download:  923.909368
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.250.204.46):
+PING tiktok.com (108.157.30.107):
+upload:  922.195656
+download:  923.817656
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.250.199.78):
+PING tiktok.com (108.157.30.61):
+upload:  923.786656
+download:  925.500016
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.199.35):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING tiktok.com (108.157.30.61):
+PING youtube.com (172.217.27.46):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (172.217.24.110):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.48):
+upload:  917.741560
+download:  926.688400
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.211.35):
+PING youtube.com (142.250.66.78):
+PING tiktok.com (108.157.30.107):
+upload:  916.458072
+download:  927.792160
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING tiktok.com (108.157.30.107):
+PING youtube.com (142.250.199.78):
+PING facebook.com (157.240.211.35):
+upload:  895.307288
+download:  923.306656
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING facebook.com (157.240.211.35):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (142.250.66.78):
+PING tiktok.com (108.157.30.48):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.211.35):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING tiktok.com (108.157.30.48):
+PING youtube.com (142.250.204.78):
+upload:  912.206952
+download:  924.192768
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (142.250.199.78):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.107):
+upload:  920.968120
+download:  925.069120
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.115):
+PING youtube.com (142.251.220.110):
+upload:  917.825904
+download:  925.563656
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.211.35):
+PING tiktok.com (108.157.30.61):
+PING youtube.com (172.217.24.110):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING tiktok.com (54.192.18.10):
+PING youtube.com (216.58.203.78):
+PING facebook.com (157.240.199.35):
+upload:  908.254616
+download:  929.778280
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING tiktok.com (108.157.30.115):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.250.66.78):
+upload:  926.562408
+download:  927.440944
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (172.217.24.110):
+PING tiktok.com (108.157.30.48):
+upload:  910.599896
+download:  928.181944
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.211.35):
+PING youtube.com (142.250.204.78):
+PING tiktok.com (108.157.30.107):
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING facebook.com (157.240.199.35):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (172.217.24.110):
+PING tiktok.com (108.157.30.48):
+upload:  921.997656
+download:  929.555752
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (142.251.220.110):
+PING tiktok.com (108.157.30.115):
+upload:  917.043800
+download:  923.947416
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING youtube.com (142.251.220.110):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.211.35):
+PING tiktok.com (108.157.30.61):
+upload:  918.220312
+download:  929.883488
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.251.220.78):
+PING tiktok.com (108.157.30.61):
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (142.251.220.78):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.48):
+upload:  911.492120
+download:  927.711328
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.251.220.78):
+PING tiktok.com (108.157.30.107):
+upload:  916.081320
+download:  923.497728
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING youtube.com (142.250.204.46):
+PING facebook.com (157.240.199.35):
+PING tiktok.com (108.157.30.115):
+upload:  888.959656
+download:  928.234952
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.250.66.78):
+PING tiktok.com (108.157.30.48):
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING facebook.com (157.240.211.35):
+PING tiktok.com (108.157.30.61):
+PING youtube.com (142.250.66.46):
+upload:  924.080072
+download:  924.880672
+PING 192.168.1.1 (192.168.1.1):
+PING 1.1.1.1 (1.1.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING google-public-dns-b.google.com (8.8.4.4):
+PING facebook.com (157.240.199.35):
+PING youtube.com (142.250.66.142):
+PING tiktok.com (108.157.30.61):
+upload:  919.219464
+download:  925.769440
+PING 1.1.1.1 (1.1.1.1):
+PING 192.168.1.1 (192.168.1.1):
+PING google-public-dns-a.google.com (8.8.8.8):
+PING tiktok.com (54.192.18.112):
+PING youtube.com (142.250.204.78):
+PING facebook.com (157.240.199.35):
+PING google-public-dns-b.google.com (8.8.4.4):

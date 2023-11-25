@@ -1,0 +1,10 @@
+# DEBUG MODE
+debug_mode: false
+
+# APP CONFIG INFO
+log_path: "./log/records.log"
+dns_server: ""
+ping_count: 2
+ping_interval: 1
+ping_cron_time: "10m"
+speedtest_cron_time: "20m"
